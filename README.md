@@ -183,6 +183,7 @@ MCP 客户端是 AI 的“操作台”，以下是几个热门选择：
 | [yepcode/mcp-server-js](https://github.com/yepcode/mcp-server-js)    | 在安全可扩展的沙盒环境中执行 LLM 生成的代码，并用 JS/Python 创建自定义 MCP 工具。 | 官方实现 (YepCode) 🎖️, TypeScript 开发 📇, 云服务 ☁️, 安全代码执行，自定义工具。       |
 | [yzfly/mcp-python-interpreter](https://github.com/yzfly/mcp-python-interpreter) | 安全、标准化的 Python 环境，支持代码执行、环境和包管理。                              | 社区标杆, 轻量级 Python 执行环境, 适合开发和数据分析。                                |
 | [admica/FileScopeMCP](https://github.com/admica/FileScopeMCP)        | 分析代码库依赖关系，生成图表，帮助 AI 理解项目结构。                                  | 社区实现, 多语言 (Py 🐍/TS 📇/Rust 🦀), 代码结构分析。                               |
+| [mcp-checkup](https://github.com/yifanyifan897645/mcp-checkup) | 分析 MCP 设置的 token 开销，量化每个 server/tool 的上下文窗口消耗，查找重复工具，效率评级（A-F），生成优化报告。 | 社区实现, TypeScript 开发 📇, 本地运行 🏠, npx mcp-checkup 一键启动。 |
 | [mem0ai/mem0-mcp](https://github.com/mem0ai/mem0-mcp)                | 管理代码偏好和模式，支持语义搜索，方便在 IDE 中存取技术文档。 (Mem0 官方)             | 官方实现 (Mem0 AI) 🎖️, Python 开发 🐍, 本地运行 🏠, 程序员的记忆助手和偏好管理。       |
 | [code-executor](https://github.com/bazinga012/mcp_code_executor)     | 允许 AI 在指定的 Conda 环境中执行 Python 代码。                                      | 社区实现, Python 开发, Conda 环境代码执行。                                         |
 | [code-sandbox-mcp](https://github.com/Automata-Labs-team/code-sandbox-mcp) | 创建安全的 Docker 容器环境来执行代码。                                              | 社区实现, Python 开发, Docker 沙盒代码执行。                                         |
